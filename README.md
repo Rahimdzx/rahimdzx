@@ -1,11 +1,11 @@
 # Hello! Welcome to My GitHub Profile! 👋
 
 ## Career Overview
-I began my career at the age of 13, driven by a passion for technology and cybersecurity. Initially self-taught in various types of malware, I mastered the art of creating, implementing, and developing these programs. As my expertise grew, I transitioned from offensive to defensive roles, assisting numerous companies in safeguarding their systems from spam, scams, and fraud.
+I began my journey at 13, fueled by a passion for technology and cybersecurity. Initially self-taught in malware development, I transitioned to defensive roles, helping companies safeguard their systems against spam and fraud.
 
-Beyond cybersecurity, I have a robust background in machine learning, leading projects in healthcare and business. In healthcare, I developed AI-driven solutions that enhance diagnostic accuracy, predict patient outcomes, and streamline medical workflows. My work in business has involved leveraging machine learning algorithms to optimize operations and drive data-driven decision-making.
+In addition to cybersecurity, I have a strong background in machine learning, leading projects in healthcare to enhance diagnostic accuracy and streamline workflows. My experience extends to business, where I've leveraged AI to optimize operations and drive data-driven decision-making.
 
-I also have significant experience in computer vision, applying deep learning techniques to projects involving image recognition, object detection, and facial recognition, ranging from healthcare applications to automating visual inspection processes in business.
+I also have significant expertise in computer vision, applying deep learning techniques to projects involving image and object recognition, with applications ranging from healthcare to visual inspection processes in various industries.
 
 ---
 
