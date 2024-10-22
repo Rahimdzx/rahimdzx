@@ -17,27 +17,32 @@ I also have significant experience in computer vision, applying deep learning te
 ---
 
 ## Technical Expertise 🛠️
+I am proficient in a range of technologies, including:
+
 ### Programming Languages:
-![Python](https://img.shields.io/badge/Python-3.8-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![Java](https://img.shields.io/badge/Java-11-red)
+![Python](https://img.shields.io/badge/Python-3.8-blue?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-StructuredQueryLanguage-4BDB2B?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries:
-![Django](https://img.shields.io/badge/Django-3.2-green)
-![Flask](https://img.shields.io/badge/Flask-2.0.1-red)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.68.1-blue)
-
-### Databases:
-![MySQL](https://img.shields.io/badge/MySQL-8.0-005e9c)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13.3-336791)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.68.1-blue?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-2.0.1-red?style=flat&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-20.10.8-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### Cloud & DevOps:
-![Docker](https://img.shields.io/badge/Docker-20.10.8-2496ED)
-![AWS](https://img.shields.io/badge/AWS-1C5DFF)
+![AWS](https://img.shields.io/badge/AWS-1C5DFF?style=flat&logo=amazonaws&logoColor=white)
 
-### Other Skills:
-![Tableau](https://img.shields.io/badge/Tableau-2021.1-F1C40F)
-![PySpark](https://img.shields.io/badge/PySpark-3.1.2-FBB034)
+### Data Visualization:
+![Tableau](https://img.shields.io/badge/Tableau-2021.1-F1C40F?style=flat&logo=tableau&logoColor=white)
+
+### Big Data Processing:
+![PySpark](https://img.shields.io/badge/PySpark-3.1.2-FBB034?style=flat&logo=apache-spark&logoColor=white)
+
+### Machine Learning & AI:
+- Deep learning techniques for healthcare solutions.
 
 ---
 
@@ -60,9 +65,3 @@ Feel free to reach out directly!
 📊 **GitHub Stats**:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahimdzx&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahimdzx&layout=compact&theme=radical)
-
-
-📊 **GitHub Stats**:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahimdzx&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahimdzx&layout=compact&theme=radical)
-
