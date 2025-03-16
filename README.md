@@ -14,37 +14,6 @@ I also have significant expertise in computer vision, applying deep learning tec
 - **Teamwork**: I foster a positive team environment.
 - **Opportunity Recognition**: I am dedicated to setting and achieving goals.
 
----
-
-## Technical Expertise 🛠️
-I am proficient in a range of technologies, including:
-
-### Programming Languages:
-![Python](https://img.shields.io/badge/Python-3.8-blue?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-StructuredQueryLanguage-4BDB2B?style=flat&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### Frameworks & Libraries:
-![FastAPI](https://img.shields.io/badge/FastAPI-0.68.1-blue?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-2.0.1-red?style=flat&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-20.10.8-2496ED?style=flat&logo=docker&logoColor=white)
-
-### Cloud & DevOps:
-![AWS](https://img.shields.io/badge/AWS-1C5DFF?style=flat&logo=amazonaws&logoColor=white)
-
-### Data Visualization:
-![Tableau](https://img.shields.io/badge/Tableau-2021.1-F1C40F?style=flat&logo=tableau&logoColor=white)
-
-### Big Data Processing:
-![PySpark](https://img.shields.io/badge/PySpark-3.1.2-FBB034?style=flat&logo=apache-spark&logoColor=white)
-
-### Machine Learning & AI:
-- Deep learning techniques for healthcare solutions.
-
----
 
 ## Contact Information 📧
 **Email**: [Mouissatrabah@gmail.com](mailto:Mouissatrabah@gmail.com)  
